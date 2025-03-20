@@ -1,5 +1,5 @@
 ### My blog
-[loda.notion](https://loda.notion.site/) thanks to Notion
+[loda.notion](https://loda.notion.site/croak-cf1a34831c3e4c118d09ba0a753815f7?pvs=4) thanks to Notion
 
 <p align="center">
   <a href="https://loda.notion.site/">
