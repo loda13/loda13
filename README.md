@@ -3,6 +3,6 @@
 
 <p align="center">
   <a href="https://loda.notion.site/">
-    <img alt="Loda Tang's blog" src="https://github.com/user-attachments/assets/70b1f3d9-73b0-4d23-8426-426c11189911" width="1250">
+    <img alt="Loda Tang's blog" src="https://github.com/user-attachments/assets/7ec81937-68ff-48db-81b1-11f191b1c32f" width="3000" height="1462">
   </a>
 </p>
